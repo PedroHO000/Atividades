@@ -1,0 +1,3 @@
+git add ou rm nome-do-arquivo.tipo
+git commit -m "nome do commit"
+git push
